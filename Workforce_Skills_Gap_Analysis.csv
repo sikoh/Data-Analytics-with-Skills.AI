@@ -1,0 +1,51 @@
+Country,Industry,Year,Critical Skill Shortage (%),Employees Needing Reskilling (Thousands),Skills Most in Demand,Average Training Cost Per Employee (USD),Business Impact of Skill Shortage (USD Million)
+Canada,Energy,2021,20,331,Cloud Computing,3847,150
+France,Technology,2019,18,327,Digital Marketing,4010,81
+UK,Manufacturing,2020,17,466,AI and Machine Learning,3668,51
+Germany,Healthcare,2020,15,400,Cloud Computing,3329,111
+India,Construction,2022,18,325,Sales and Customer Management,4911,58.5
+UK,Finance,2021,14,470,Data Analysis,2971,10.5
+Brazil,Transportation,2022,10,444,AI and Machine Learning,4690,147
+Brazil,Retail,2022,18,334,Project Management,3902,105
+Canada,Transportation,2021,25,361,Data Analysis,2070,150
+Japan,Healthcare,2023,10,239,Renewable Energy Technology,2857,25.5
+UK,Education,2022,23,183,Healthcare Expertise,4265,147
+Australia,Retail,2023,22,104,Cloud Computing,1501,45
+France,Hospitality,2023,19,396,Data Analysis,3282,54
+Brazil,Retail,2021,11,220,Trade Skills,4245,99
+Canada,Healthcare,2019,14,177,Cybersecurity,1590,130.5
+Japan,Retail,2021,21,381,Data Analysis,4566,136.5
+Japan,Hospitality,2022,17,259,Healthcare Expertise,1887,142.5
+UK,Finance,2020,10,317,Sales and Customer Management,1092,6
+Canada,Retail,2023,15,309,Sales and Customer Management,2077,39
+Japan,Energy,2019,15,424,Cloud Computing,2066,30
+Canada,Education,2022,15,116,Project Management,3731,9
+Canada,Construction,2023,10,232,Cybersecurity,2997,73.5
+Australia,Education,2021,13,346,Healthcare Expertise,2522,144
+USA,Retail,2020,23,142,Data Analysis,3862,135
+India,Construction,2023,15,253,Cloud Computing,3118,94.5
+France,Retail,2023,10,398,Sales and Customer Management,3326,105
+France,Energy,2020,9,59,Digital Marketing,3065,25.5
+India,Education,2022,19,100,Renewable Energy Technology,2858,49.5
+Japan,Technology,2022,22,117,Digital Marketing,2981,147
+China,Construction,2021,21,139,Cloud Computing,4183,112.5
+Australia,Manufacturing,2020,14,78,Cloud Computing,4034,16.5
+Germany,Healthcare,2023,12,447,Healthcare Expertise,1530,150
+Canada,Finance,2019,25,438,AI and Machine Learning,1206,84
+China,Retail,2019,9,141,Healthcare Expertise,4567,39
+Australia,Finance,2022,6,452,Sales and Customer Management,2380,46.5
+UK,Retail,2020,24,483,Project Management,4732,150
+Canada,Technology,2022,12,311,Digital Marketing,3084,45
+Canada,Technology,2019,24,332,Project Management,2739,36
+Australia,Retail,2019,7,114,Project Management,4938,46.5
+USA,Construction,2022,18,486,Healthcare Expertise,2711,12
+USA,Manufacturing,2022,23,335,Data Analysis,4674,51
+Brazil,Energy,2021,11,284,Trade Skills,2529,7.5
+Japan,Finance,2022,17,202,Project Management,1785,19.5
+China,Energy,2020,13,359,Cloud Computing,1084,108
+China,Education,2019,17,475,Sales and Customer Management,3853,43.5
+Japan,Retail,2021,7,192,Project Management,1095,96
+USA,Technology,2023,22,176,Data Analysis,3160,142.5
+France,Technology,2021,16,51,Digital Marketing,3057,117
+Canada,Retail,2022,11,443,Cloud Computing,1549,36
+Japan,Hospitality,2020,13,271,Cloud Computing,3115,136.5
