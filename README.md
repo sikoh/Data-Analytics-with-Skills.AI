@@ -5,9 +5,11 @@ Creating infographics and visualize data using AI tools, and Interacting with vi
 Files/Datasets:
 
 1. Workforce_Skills_Gap_Analysis.csv
+   
 This dataset examines the workforce skills gap from 2019 to 2023 across various industries in ten countries. It includes data on critical skill shortages, employees needing reskilling, in-demand skills, training costs, and the financial impact of skill gaps. The information is aimed at analyzing trends, identifying skill shortages, and facilitating the planning of training programs to address these gaps effectively. 
 
-2. Cumulative_Activity_Form_Responses.csv
+3. Cumulative_Activity_Form_Responses.csv
+   
 This CSV file contains data from a Google Form survey targeting individuals interested in being hired for an AI startup. The survey captures the following information:
 Full Name: The respondent's full name.
 Educational Background: Indicates whether the respondent is an undergraduate, holds a Bachelor's degree, or a Master's degree.
