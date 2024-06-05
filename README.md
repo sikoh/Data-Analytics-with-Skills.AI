@@ -12,16 +12,16 @@ This dataset examines the workforce skills gap from 2019 to 2023 across various 
    
 This CSV file contains data from a Google Form survey targeting individuals interested in being hired for an AI startup. The survey captures the following information:
 
-Full Name: The respondent's full name.
+*Full Name:* The respondent's full name.
 
-Educational Background: Indicates whether the respondent is an undergraduate, holds a Bachelor's degree, or a Master's degree.
+*Educational Background:* Indicates whether the respondent is an undergraduate, holds a Bachelor's degree, or a Master's degree.
 
-Academic Department: The academic department with which the respondent is currently affiliated.
+*Academic Department:* The academic department with which the respondent is currently affiliated.
 
-Motivation for Learning Generative AI: Reasons why the respondent is learning generative AI.
+*Motivation for Learning Generative AI:* Reasons why the respondent is learning generative AI.
 
-Need for Online Career Support: Whether the respondent needs online career support from the startup.
+*Need for Online Career Support:* Whether the respondent needs online career support from the startup.
 
-Requirement for Online Learning Support in AI: Whether the respondent requires online learning support in AI.
+*Requirement for Online Learning Support in AI:* Whether the respondent requires online learning support in AI.
 
 This dataset will be used to analyze and identify the best candidates for hiring based on their educational background, motivation, and support needs, using Skills.AI analytics tools.
