@@ -111,7 +111,22 @@ These results suggest an immediate focus on the retail sector for intervention s
 <br>
 <br>
 **Country Profiling:** Determine which countries are most affected by the workforce skills gap to focus international efforts and strategies.
+<img width="1079" alt="Workforce_skills_gap" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/7e32f6e7-b49d-41ce-a8d4-b6fb7b072b51">
 
+*<ins>The data reveals a substantial skills gap in the global workforce, with varying degrees of impact across different countries.</ins>*
 
+Canada appears most affected, needing reskilling for roughly 3,050 thousand employees.
+
+Japan and the UK follow closely with 2,085 and 1,919 thousand respectively.
+
+On the other hand, India and Germany show the least demand for reskilling, with only 678 and 847 thousand employees respectively.
+
+Notably, despite having the largest population, China's reskilling needs are relatively low at 1,114 thousand.
+
+This suggests that international efforts and strategies should primarily target Canada, Japan, and the UK to effectively address the global workforce skills gap.
+
+<br>
+<br>
+<br>
 **Training Evaluation:** Evaluate the effectiveness of reskilling by comparing the business impact of skill shortage before and after training to measure return on investment.
 
