@@ -124,9 +124,16 @@ On the other hand, India and Germany show the least demand for reskilling, with 
 Notably, despite having the largest population, China's reskilling needs are relatively low at 1,114 thousand.
 
 This suggests that international efforts and strategies should primarily target Canada, Japan, and the UK to effectively address the global workforce skills gap.
-
 <br>
 <br>
 <br>
 **Training Evaluation:** Evaluate the effectiveness of reskilling by comparing the business impact of skill shortage before and after training to measure return on investment.
+<img width="1073" alt="Business_Impact_Before_After" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/48b1b8c4-de08-4b24-b62d-1078d75d5976">
 
+*<ins>The analytics task reveals the following:</ins>*
+
+Australia experienced a significant increase in business impact after training, going from 63.0 to 235.5, and a decrease in average training cost, resulting in a ROI of 0.038453.
+A similar pattern is observed in Canada, with the business impact more than doubling and a ROI of 0.136585.
+China and the UK saw a decrease in business impact post-training, while the training cost increased, resulting in a negative ROI.
+France, Germany, and the USA experienced an increase in business impact after training, with France achieving the highest ROI among them at 0.047915.
+Japan exhibited the highest ROI of 0.154603, with business impact more than tripling after training.
