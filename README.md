@@ -36,12 +36,11 @@ The individuals surveyed have diverse educational backgrounds spanning various f
 We are utilizing Skills.AI analytics tools to determine which individuals are most suited to join the customer's innovative venture.
 
 **Analytics Objectives**
+
 **Workforce Development/Reskilling Strategy:** Identify the industries and countries with the highest critical skill shortage percentage to develop targeted training programs.
-![image](https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/6f8cd0e4-5162-4249-a6e6-555cc2511ca9)
-
 **Cost-Benefit Analysis:** Determine the financial impact of skill shortage and compare it with the average training cost per employee for a cost-effective reskilling strategy.
-![image](https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/d5e3ee66-2100-4878-aa51-d5e666090c70)
-
 **Skill Demand Forecast:** Analyze the 'Skills Most in Demand' data to predict future workforce needs and guide the creation of future training initiatives.
-![image](https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/5e158c6e-5cdf-407c-a39f-a8a4f4df288d)
+**Industry Analysis:** Identify the industry with the most employees needing reskilling to prioritize the sectors that require immediate intervention.
+**Country Profiling:** Determine which countries are most affected by the workforce skills gap to focus international efforts and strategies.
+**Training Evaluation:** Evaluate the effectiveness of reskilling by comparing the business impact of skill shortage before and after training to measure return on investment.
 
