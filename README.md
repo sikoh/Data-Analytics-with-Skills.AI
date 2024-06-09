@@ -35,7 +35,7 @@ We will analyze a dataset containing profiles of individuals to identify the bes
 The individuals surveyed have diverse educational backgrounds spanning various fields and are enrolled in a generative AI course within an online AI program at Coursera. 
 We are utilizing Skills.AI analytics tools to determine which individuals are most suited to join the customer's innovative venture.
 
-##Analytics Objectives##
+## Analytics Objectives: ##
 
 **Workforce Development/Reskilling Strategy:** Identify the industries and countries with the highest critical skill shortage percentage to develop targeted training programs.
 <img width="759" alt="Critical_Skill_Shortage" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/bea236a0-918f-41f3-a9a2-a3b4520928ac">
