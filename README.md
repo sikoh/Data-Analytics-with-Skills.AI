@@ -95,8 +95,21 @@ Lower on the list but still significant, AI and Machine Learning, and Cybersecur
 <br>
 <br>
 **Industry Analysis:** Identify the industry with the most employees needing reskilling to prioritize the sectors that require immediate intervention.
+<img width="1053" alt="Employees_Needing_Reskilling" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/6039dfcb-6470-47bb-b382-40d42c17e69d">
+*<ins>The analysis of employee reskilling needs across various industries revealed:</ins>*
 
+Retail stands as the top priority sector with 3261 thousand employees needing reskilling.
 
+The Finance industry follows with 1879 thousand employees.
+
+Energy and Construction are closely aligned, requiring reskilling for 1457 thousand and 1435 thousand employees respectively.
+
+The Technology industry has the least demand in this context with 1314 thousand employees.
+
+These results suggest an immediate focus on the retail sector for intervention strategies.
+<br>
+<br>
+<br>
 **Country Profiling:** Determine which countries are most affected by the workforce skills gap to focus international efforts and strategies.
 
 
