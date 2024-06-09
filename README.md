@@ -81,8 +81,19 @@ Comparing these figures with the average training cost per employee could provid
 <br>
 <br>
 **Skill Demand Forecast:** Analyze the 'Skills Most in Demand' data to predict future workforce needs and guide the creation of future training initiatives.
+<img width="1053" alt="Skill_Demand_Forecast" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/99435658-5437-42b0-a564-54622db86bd6">
+*<ins>The data indicates a strong future demand in the following areas:</ins>*
 
+Sales and Customer Management tops the list with 1484 thousand employees needing reskilling, suggesting a critical need for sales skills and customer handling capabilities.
 
+Healthcare Expertise is the second most demanded skill with 1375 thousand employees requiring reskilling, indicating a growing need in the healthcare industry.
+
+Data Analysis and Cloud Computing are also in high demand, with 907 and 800 thousand employees needing training, respectively, pointing towards the ongoing digital transformation in businesses.
+
+Lower on the list but still significant, AI and Machine Learning, and Cybersecurity indicate emerging tech fields where future workforce needs are likely to increase, with 444 and 232 thousand employees needing reskilling respectively.
+<br>
+<br>
+<br>
 **Industry Analysis:** Identify the industry with the most employees needing reskilling to prioritize the sectors that require immediate intervention.
 
 
