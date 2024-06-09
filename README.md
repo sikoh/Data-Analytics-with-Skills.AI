@@ -62,8 +62,24 @@ These insights suggest that targeted training programs should prioritize these i
 
 
 **Cost-Benefit Analysis:** Determine the financial impact of skill shortage and compare it with the average training cost per employee for a cost-effective reskilling strategy.
+<img width="1053" alt="Net_Financial_Impact_Million_USD" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/cb77eb75-841a-4354-8d27-d03961b2b7b4">
+*<ins>Based on the visualization above:<ins>*
+The data analysis reveals a consistent negative financial impact due to skill shortage over the years, with an average net impact of approximately -784.5 USD Million per year. This consistent negative trajectory suggests a significant cost associated with skill shortage.
 
+In 2019, the net financial impact was -806.60175 USD Million.
 
+In 2020, it slightly decreased to -801.146667 USD Million.
+
+A further decrease was observed in 2021 with -760.5975 USD Million.
+
+However, the highest financial impact was seen in 2022 with -876.2715 USD Million.
+
+*In 2023, the impact reduced significantly to -677.707556 USD Million.*
+
+Comparing these figures with the average training cost per employee could provide insights for a more cost-effective reskilling strategy.
+<br>
+<br>
+<br>
 **Skill Demand Forecast:** Analyze the 'Skills Most in Demand' data to predict future workforce needs and guide the creation of future training initiatives.
 
 
