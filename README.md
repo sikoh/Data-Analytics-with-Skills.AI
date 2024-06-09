@@ -40,5 +40,8 @@ We are utilizing Skills.AI analytics tools to determine which individuals are mo
 ![image](https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/6f8cd0e4-5162-4249-a6e6-555cc2511ca9)
 
 **Cost-Benefit Analysis:** Determine the financial impact of skill shortage and compare it with the average training cost per employee for a cost-effective reskilling strategy.
+![image](https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/d5e3ee66-2100-4878-aa51-d5e666090c70)
 
 **Skill Demand Forecast:** Analyze the 'Skills Most in Demand' data to predict future workforce needs and guide the creation of future training initiatives.
+![image](https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/5e158c6e-5cdf-407c-a39f-a8a4f4df288d)
+
