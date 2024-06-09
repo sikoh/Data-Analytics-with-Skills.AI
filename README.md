@@ -141,6 +141,10 @@ China and the UK saw a decrease in business impact post-training, while the trai
 France, Germany, and the USA experienced an increase in business impact after training, with France achieving the highest ROI among them at 0.047915.
 
 Japan exhibited the highest ROI of 0.154603, with business impact more than tripling after training.
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 **Report authored by Silvana Koharian**
