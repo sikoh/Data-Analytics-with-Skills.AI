@@ -44,7 +44,7 @@ We are utilizing Skills.AI analytics tools to determine which individuals are mo
 
 <img width="582" alt="Critical Skill Shortage_USA" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/bc4b4564-763a-4c68-b71b-b74b05f3ce6c">
 
-*Based on the data analysis:*
+*<ins>Based on the data analysis:<ins>*
 
 The industries with the highest critical skill shortage percentages are Transportation and Finance in Canada, both at 25%.
 
