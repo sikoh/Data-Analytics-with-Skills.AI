@@ -133,7 +133,14 @@ This suggests that international efforts and strategies should primarily target 
 *<ins>The analytics task reveals the following:</ins>*
 
 Australia experienced a significant increase in business impact after training, going from 63.0 to 235.5, and a decrease in average training cost, resulting in a ROI of 0.038453.
+
 A similar pattern is observed in Canada, with the business impact more than doubling and a ROI of 0.136585.
+
 China and the UK saw a decrease in business impact post-training, while the training cost increased, resulting in a negative ROI.
+
 France, Germany, and the USA experienced an increase in business impact after training, with France achieving the highest ROI among them at 0.047915.
+
 Japan exhibited the highest ROI of 0.154603, with business impact more than tripling after training.
+
+
+**Report authored by Silvana Koharian**
