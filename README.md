@@ -35,4 +35,6 @@ We will analyze a dataset containing profiles of individuals to identify the bes
 The individuals surveyed have diverse educational backgrounds spanning various fields and are enrolled in a generative AI course within an online AI program at Coursera. 
 We are utilizing Skills.AI analytics tools to determine which individuals are most suited to join the customer's innovative venture.
 
-
+Workforce Reskilling Strategy: Identify the industries and countries with the highest critical skill shortage percentage to develop targeted training programs.
+Cost-Benefit Analysis: Determine the financial impact of skill shortage and compare it with the average training cost per employee for a cost-effective reskilling strategy.
+Skill Demand Forecast: Analyze the 'Skills Most in Demand' data to predict future workforce needs and guide the creation of future training initiatives.
