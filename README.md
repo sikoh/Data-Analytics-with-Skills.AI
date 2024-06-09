@@ -56,7 +56,9 @@ The Technology industry also shows significant skill shortages, with 22% in both
 
 These insights suggest that targeted training programs should prioritize these industries and countries to address the most severe skill shortages.
 
-
+<br>
+<br>
+<br>
 
 
 **Cost-Benefit Analysis:** Determine the financial impact of skill shortage and compare it with the average training cost per employee for a cost-effective reskilling strategy.
