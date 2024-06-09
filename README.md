@@ -40,9 +40,24 @@ We are utilizing Skills.AI analytics tools to determine which individuals are mo
 **Workforce Development/Reskilling Strategy:** Identify the industries and countries with the highest critical skill shortage percentage to develop targeted training programs.
 <img width="759" alt="Critical_Skill_Shortage" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/bea236a0-918f-41f3-a9a2-a3b4520928ac">
 
-* Critical Skill Shortage for USA
+*Critical Skill Shortage for USA
 
 <img width="582" alt="Critical Skill Shortage_USA" src="https://github.com/sikoh/Data-Analytics-with-Skills.AI/assets/84741857/bc4b4564-763a-4c68-b71b-b74b05f3ce6c">
+
+*Based on the data analysis:*
+
+The industries with the highest critical skill shortage percentages are Transportation and Finance in Canada, both at 25%.
+
+The Retail industry in the UK closely follows with a 24% shortage.
+
+In the USA, both the Retail and Manufacturing industries have a 23% critical skill shortage.
+
+The Technology industry also shows significant skill shortages, with 22% in both the USA and Japan.
+
+These insights suggest that targeted training programs should prioritize these industries and countries to address the most severe skill shortages.
+
+
+
 
 **Cost-Benefit Analysis:** Determine the financial impact of skill shortage and compare it with the average training cost per employee for a cost-effective reskilling strategy.
 
