@@ -64,6 +64,12 @@ Healthcare Expertise is the second most demanded skill with 1375 thousand employ
 Data Analysis and Cloud Computing are also in high demand, with 907 and 800 thousand employees needing training, respectively, pointing towards the ongoing digital transformation in businesses.
 
 Lower on the list but still significant, AI and Machine Learning, and Cybersecurity indicate emerging tech fields where future workforce needs are likely to increase, with 444 and 232 thousand employees needing reskilling respectively.
+
+*Most In Demand Skills for USA*
+<img width="1163" alt="Most_In_demand_Skills_USA" src="https://github.com/sikoh/Skills-Gap-Data-Analytics/assets/84741857/07699bb4-0076-43d6-906d-e16f8b8ab6d5">
+
+The visualization of skills most in demand in the USA highlights Data Analysis as the leading skill requirement, with the highest count of demand across industries. This is followed by Healthcare Expertise, indicating a specialized need in the healthcare sector. These insights underscore the critical need for training programs focused on data analytics and healthcare to address the current skills gap effectively.
+
 <br>
 <br>
 <br>
