@@ -86,6 +86,7 @@ The Technology industry has the least demand in this context with 1314 thousand 
 
 These results suggest an immediate focus on the retail sector for intervention strategies.
 
+
 *Employee reskilling needs in USA*
 <img width="1163" alt="Total_Employees_needing_reskilling_USA" src="https://github.com/sikoh/Skills-Gap-Data-Analytics/assets/84741857/2d78bb0b-809a-49a8-a336-3003276d60ea">
 
