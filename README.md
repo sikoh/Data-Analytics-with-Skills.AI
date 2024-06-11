@@ -85,6 +85,11 @@ Energy and Construction are closely aligned, requiring reskilling for 1457 thous
 The Technology industry has the least demand in this context with 1314 thousand employees.
 
 These results suggest an immediate focus on the retail sector for intervention strategies.
+
+*Employee reskilling needs in USA*
+<img width="1163" alt="Total_Employees_needing_reskilling_USA" src="https://github.com/sikoh/Skills-Gap-Data-Analytics/assets/84741857/2d78bb0b-809a-49a8-a336-3003276d60ea">
+
+The visualization reveals that the Construction industry in the USA has the highest number of employees needing reskilling - 486, indicating a significant skills gap. This is followed by the Manufacturing - 335, Technology - 176, and Retail sectors - 142, highlighting the urgent need for targeted training initiatives in these areas to address workforce development challenges.
 <br>
 <br>
 <br>
